@@ -69,4 +69,8 @@ iframe {
   padding: 1rem;
 }
 
-https://github.com/Morganton-Coding-Camp/bob.github.io/edit/master/styles/base.css
+.profile-img {
+  max-height: 33vh;
+  width: auto;
+  border-radius: 50%;
+}
